@@ -38,7 +38,7 @@ CANimator comes with a very extensive config ModuleScript
  <3
 <br><br><br><br><br>
 # How to use
-1. [Get CANimator](https://github.com/respendiant/CANimator/edit/main/README.md) and put it in StarterPlayerScripts
+1. [Get CANimator](https://www.roblox.com/library/7703294231/CANimator) and put it in StarterPlayerScripts
 <br>
 2. Configure it how you like
 <br>
