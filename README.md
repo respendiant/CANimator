@@ -1,5 +1,5 @@
 # CANimator
-## 1.04A
+## 1.03M
 A crappy alternative to Roblox's stock animator script.
 ## features
 
